@@ -2,4 +2,11 @@ body {
     font-size: 20px;
     background: linear-gradient(to top,#d6cf0e, #2a10f1);
     height: 100vh;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    color: #fff;
 }
